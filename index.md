@@ -112,6 +112,76 @@
   </tr>
 </table>
 
+
+
+<h2>분류</h2>
+
+<table style="border-collapse:collapse; width:100%; text-align:center;">
+  <tr>
+    <th style="border:1px solid #999; padding:8px;">분류</th>
+    <th style="border:1px solid #999; padding:8px;">설명</th>
+  </tr>
+  <tr>
+    <td style="border:1px solid #999; padding:8px;">고어(그로테스크)</td>
+    <td style="border:1px solid #999; padding:8px;">매우 잔인하거나 고어한 장면이 들어간 영화</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #999; padding:8px;">스너프 필름</td>
+    <td style="border:1px solid #999; padding:8px;">실제 범죄 행위를 영상으로 찍은 것. 스너프 필름은 대부분 다크웹과 같은 음지에 존재하며, 보통 이런 종류는 대다수가 8단계에 들어간다.</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #999; padding:8px;">섹스</td>
+    <td style="border:1px solid #999; padding:8px;">성관계를 매우 노골적이고, 적나라하게 하는 장면이 있는 영화</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #999; padding:8px;">학대</td>
+    <td style="border:1px solid #999; padding:8px;">미성년자를 대상으로 매우 가혹한 고문 및 학대를 하는 장면이 있는 영화</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #999; padding:8px;">성범죄</td>
+    <td style="border:1px solid #999; padding:8px;">여성을 대상으로 심각한 성범죄를 저지르는 장면이 있는 영화</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #999; padding:8px;">오물</td>
+    <td style="border:1px solid #999; padding:8px;">배설물 및 쓰레기가 매우 역겹게 표현되거나, 매우 더러운 것이 나오는 장면이 있는 영화</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #999; padding:8px;">모방</td>
+    <td style="border:1px solid #999; padding:8px;">청소년 및 어린이는 물론, 성인들도 따라해서 범죄를 저지를 위험이 있는 모방 위험 장면이 있는 영화</td>
+  </tr>
+</table>
+
+<h2>참고</h2>
+<p>
+이 문서는 만든 지 얼마 되지 않아, 아직은 <b>어떠한 분석과 리뷰 영상</b>도,
+<b>이 문서에 관한 사이트들</b>도,
+<b>이 문서에 관한 어떠한 금지된 영화도 등록되지 않았음</b>을 알립니다.
+그러나, 추후 <b>과거에 있었거나, 유명한 금지된 영화들은 먼저 등록 예정</b>임을 알려드립니다.
+</p>
+
+<h2>참고 2</h2>
+<p>
+본 문서의 위험도에 들어가 있는 영화들은 대부분 <b>19금 영화들</b> 입니다.
+<b>그러나, 위험도 2 이하에서 소수의 영화들은 19세 수준의 장면이 들어가 있지만,
+애매하게 15세로 판정 받은 영화들도 있다는 점</b>도 알려 드립니다.
+또한,
+<span style="color:#d32f2f;"><b>6단계 이상은 제한 상영가 등급을 받은 영화들이 대다수</b></span>이며,
+<span style="color:#800080;"><b>8단계는 영화가 아닌 모두 스너프 필름 이라는 점 알려 드립니다.</b></span>
+</p>
+
+<h2>참고 3</h2>
+<p>
+위험도 1부터 2까지는 사람에 따라 개인 차가 있을 수도 있습니다.
+그리고, 위험도 3부터 5까지는 개인 차가 줄어 들지만,
+그래도 약간의 개인 차는 있을 수도 있습니다.
+하지만,
+<span style="color:#d32f2f;"><b>위험도 6 이상은 거의 모든 사람이 공통적으로 트라우마가 생길 수 있습니다.</b></span>
+그리고
+<span style="color:#800080;"><b>위험도 8은 스너프 필름 이라서, 범죄이니 보지 마세요.</b></span>
+</p>
+
+
+
 <h2>하위 문서</h2>
 <ul>
   <li><b>위험도 1</b> — /위험도 1</li>
