@@ -182,8 +182,19 @@
 
 
 
-index.html          ← 메인 문서
-risk1.html          ← 위험도 1
-risk2.html          ← 위험도 2
-risk3_5.html        ← 위험도 3~5
-risk6plus.html      ← 위험도 6 이상
+<h2>하위 문서</h2>
+
+<ul>
+  <li>
+    <a href="risk1.html">위험도 1</a>
+  </li>
+  <li>
+    <a href="risk2.html">위험도 2</a>
+  </li>
+  <li>
+    <a href="risk3_5.html">위험도 3~5</a>
+  </li>
+  <li>
+    <a href="risk6plus.html">위험도 6 이상</a>
+  </li>
+</ul>
