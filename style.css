@@ -1,0 +1,73 @@
+/* 전체 기본 */
+body {
+  background-color: #0b0b0b;   /* 거의 검정 */
+  color: #dcdcdc;              /* 연회색 글자 */
+  margin: 0;
+  padding: 0;
+  font-family: "Noto Sans KR", "Malgun Gothic", sans-serif;
+  line-height: 1.7;
+}
+
+/* 중앙 정렬 + 가독성 */
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 30px;
+  background-color: rgba(15, 15, 15, 0.92);
+  box-shadow: 0 0 30px rgba(255, 0, 0, 0.08);
+}
+
+/* 제목 */
+h1, h2, h3 {
+  color: #e53935;              /* 다크 레드 */
+  border-bottom: 1px solid #333;
+  padding-bottom: 5px;
+}
+
+/* 링크 */
+a {
+  color: #ff5252;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: #ff1744;
+}
+
+/* 표 */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+th, td {
+  border: 1px solid #333;
+  padding: 10px;
+}
+th {
+  background-color: #1c1c1c;
+  color: #ff6f6f;
+}
+td {
+  background-color: #111;
+}
+
+/* 경고 문구 */
+.warning {
+  color: #ff1744;
+  font-weight: bold;
+}
+
+/* 보라색 심연 강조 */
+.deep {
+  color: #b388ff;
+  font-weight: bold;
+}
+
+/* 하단 */
+footer {
+  text-align: center;
+  color: #777;
+  font-size: 0.9em;
+  margin-top: 40px;
+}
