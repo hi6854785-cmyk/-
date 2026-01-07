@@ -52,6 +52,13 @@ td {
   background-color: #111;
 }
 
+/* 🔥 HTML에서 직접 색 준 td는 그대로 유지 */
+td[style] {
+  background-color: initial !important;
+  color: inherit;
+}
+
+
 /* 경고 문구 */
 .warning {
   color: #ff1744;
