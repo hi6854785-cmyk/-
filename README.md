@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="style.css">
 <head>
   <meta charset="UTF-8">
-  <title>절대 보면 안되는 영화</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
